@@ -1,2 +1,2 @@
-# cssproject
-A project about different css tools 
+# project
+Test project
